@@ -299,7 +299,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/article-grid.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/date.kit" : {
       "cB" : 0,
@@ -307,7 +307,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/date.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/events.kit" : {
       "cB" : 0,
@@ -315,7 +315,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/events.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
@@ -323,7 +323,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/footer.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/header-account.kit" : {
       "cB" : 0,
@@ -331,7 +331,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/header-account.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/header.kit" : {
       "cB" : 0,
@@ -339,7 +339,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/hero.kit" : {
       "cB" : 0,
@@ -347,7 +347,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/hero.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/listings.kit" : {
       "cB" : 0,
@@ -355,7 +355,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/listings.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/mission.kit" : {
       "cB" : 0,
@@ -363,7 +363,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/mission.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/name.kit" : {
       "cB" : 0,
@@ -371,7 +371,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/name.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/search-bar.kit" : {
       "cB" : 0,
@@ -379,7 +379,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/search-bar.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/sub-header.kit" : {
       "cB" : 0,
@@ -387,7 +387,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/sub-header.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/components\/term.kit" : {
       "cB" : 0,
@@ -395,7 +395,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/term.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/index.html" : {
       "cB" : 0,
@@ -775,8 +775,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles.css",
-      "oF" : 0,
+      "oAP" : "\/deploy\/css\/styles.css",
+      "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0

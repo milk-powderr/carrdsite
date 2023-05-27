@@ -1,25 +1,14 @@
-.hero {
+.panels {
     background-image: url('../img/bg.jpg');
     background-position: center;
     background-size: cover;
-    // height: 262px;
     height: 100vh;
-
     display: flex;
     flex-direction: column;
     text-align: center;
     align-items: center;
     justify-content: center;
-
     background-repeat: no-repeat;
-
-    @include md {
-        // height: 515px;
-    }
-
-    @include lg {
-        // height: 686px;
-    }
 }
 
 .hero__heading {

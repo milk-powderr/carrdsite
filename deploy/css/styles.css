@@ -337,8 +337,12 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: row;
     align-items: center;
     justify-content: left;
-    padding-left: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
+}
+.hiyori_tea {
+  scale: 80%;
 }
 .footer-block {
   background-color: #F49696;

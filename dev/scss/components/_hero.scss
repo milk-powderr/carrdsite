@@ -22,7 +22,8 @@
         flex-direction: row;
         align-items: center;
         justify-content: left;
-        padding-left: 10%;
+        padding-left: 2%;
+        padding-right: 2%;
        
     }
 
@@ -76,6 +77,18 @@
 }
 
 .enstarsstats_panel {
+ 
+    @include md {
+       
+    }
+
+    @include lg {
+        
+    }
+}
+
+.hiyori_tea {
+    scale: 80%;
  
     @include md {
        

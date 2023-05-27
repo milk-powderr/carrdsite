@@ -1,0 +1,151 @@
+.term-block {
+  padding-top: 127px;
+  padding-bottom: 140px;
+
+  @include md {
+    padding-bottom: 112px;
+    padding-top: 86px;
+  }
+
+  @include lg {
+    padding-bottom: 146px;
+  }
+}
+
+.term-block__image {
+  padding-bottom: 226px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.steps__image {
+  flex-wrap: wrap;
+  align-items: center;
+  display: flex;
+
+  @include md {
+    display: none;
+  }
+}
+
+.steps2__image {
+  display: none;
+
+  @include md {
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+  }
+
+  @include lg {
+    display: none;
+  }
+}
+
+.steps3__image {
+  display: none;
+
+  @include lg {
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+  }
+}
+
+.term {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 300px;
+  width: 90%;
+  border: 2px solid $purple;
+  border-radius: 8px;
+  overflow: auto;
+  flex-direction: column;
+  flex-wrap: wrap;
+  box-shadow: 8px 8px $dark-grey;
+  align-items: center;
+  margin-left: 26px;
+  background-color: $white;
+}
+
+::-webkit-scrollbar {
+  border-radius: 8px;
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $purple;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $purple;
+}
+
+::-webkit-scrollbar-track {
+  border: 1px solid $purple;
+  border-radius: 8px;
+}
+
+.term__body {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 60px;
+  line-height: 25px;
+}
+
+.checkbox {
+  color: $purple;
+}
+
+.checkbox {
+  width: 1.3em;
+  height: 1.3em;
+  background-color: $white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 2px solid $purple;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.checkbox:checked {
+  background-color: $purple;
+}
+
+.submit__button {
+  color: $purple;
+  margin-left: auto;
+  margin-top: 29px;
+  margin-bottom: 45px;
+  flex-direction: column;
+  display: flex;
+  align-self: flex-end;
+  text-decoration: none;
+  background-color: $yellow;
+  padding: 8px 16px;
+  width: fit-content;
+  border-radius: 8px;
+  margin-right: 27px;
+  margin-top: 100px;
+  font-size: 20px;
+
+  @include md {
+    font-size: 20px;
+    padding: 10px 18px;
+  }
+  @include lg {
+    padding: 12px 20px;
+  }
+}
+
+.custom-checkbox .custom-control-label::before {
+  border-radius: 999px;
+}

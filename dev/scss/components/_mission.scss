@@ -1,0 +1,128 @@
+.mission-block__section {
+    padding-top: 146px;
+    padding-bottom: 65px;
+
+    @include md {
+        padding-bottom: 112px;
+        padding-top: 86px;
+    }
+
+    @include lg {
+        padding-bottom: 146px;
+    }
+}
+
+.mission-block__title {
+    background-color: $purple;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: $white;
+    padding-bottom: 12px;
+    padding-top: 12px;
+
+    @include md {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    @include lg {
+        font-size: 70px;
+        line-height: 77px;
+    }
+}
+
+.mission-block__grid {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mission-block__image {
+    margin-right: 30px;
+    padding-top: 64px;
+    padding-bottom: 14px;
+
+    @include md {
+        margin-right: 108px;
+    }
+
+    @include lg {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding-left: 108px;
+        padding-right: 108px;
+        margin-left: 108px;
+    }
+}
+
+.mission__image {
+    margin-left: 16px;
+    width: 100%;
+    border: 2px solid $black;
+    border-radius: 8px;
+
+    @include md {
+        margin-left: 101px;
+        width: 630px;
+    }
+
+    @include lg {
+        margin-left: 0px;
+        width: 1038px;
+        height: 487px;
+    }
+}
+
+.mission-block__dots {
+    padding-bottom: 78px;
+}
+
+.mission-block__subtitle {
+    background-color: $purple;
+    font-weight: 700;
+    font-size: 15.893px;
+    font-style: normal;
+    line-height: 0px;
+    color: $white;
+    align-self: flex-start;
+    width: 192px;
+    height: 34px;
+    padding-left: 21px;
+
+    @include md {
+        padding-left: 150px;
+        width: 356px;
+        font-size: 20px;
+        height: 38px;
+    }
+
+    @include lg {
+        width: 500px;
+        font-size: 30px;
+        height: 60px;
+    }
+}
+
+.mission-block__body {
+    align-self: flex-start;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15.893px;
+    line-height: 21px;
+    justify-content: space-between;
+
+    @include md {
+        padding-left: 119px;
+        padding-right: 119px;
+        font-size: 16px;
+    }
+
+    @include lg {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}

@@ -330,17 +330,15 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 10%;
   padding-bottom: 10%;
 }
-.about_panel {
-  align-items: left;
-  justify-content: left;
-}
-.genshin_panel {
-  align-items: left;
-  justify-content: left;
-}
-.dni_panel {
-  align-items: center;
-  justify-content: left;
+@media (min-width: 768px) {
+  .panels {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    padding-left: 10%;
+  }
 }
 .footer-block {
   background-color: #F49696;

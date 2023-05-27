@@ -16,6 +16,13 @@
     padding-top: 10%;
     padding-bottom: 10%;
     @include md {
+
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
+        justify-content: left;
+        padding-left: 10%;
        
     }
 
@@ -25,9 +32,6 @@
 }
 
 .about_panel {
-    align-items: left;
-    justify-content: left;
-
  
      @include md {
         
@@ -38,9 +42,7 @@
      }
  }
 
- .genshin_panel {
-    align-items: left;
-    justify-content: left;
+ .intro_panel {
  
      @include md {
         
@@ -51,9 +53,7 @@
      }
  }
 
- .dni_panel {
-    align-items: center;
-    justify-content: left;
+ .soc_panel {
  
      @include md {
         
@@ -63,3 +63,25 @@
          
      }
  }
+
+ .produce_panel {
+ 
+    @include md {
+       
+    }
+
+    @include lg {
+        
+    }
+}
+
+.enstarsstats_panel {
+ 
+    @include md {
+       
+    }
+
+    @include lg {
+        
+    }
+}

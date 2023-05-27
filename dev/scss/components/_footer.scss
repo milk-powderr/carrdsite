@@ -1,5 +1,6 @@
 .footer-block {
-    background-color: $purple;
+   
+    background-color: #F49696;
     font-style: normal;
     font-weight: 400;
     font-size: 11px;
@@ -10,6 +11,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    
 
     @include md {
         font-size: 11px;
@@ -20,6 +22,7 @@
 }
 
 .footer__link {
+    
     text-decoration: none;
     color: $white;
 }

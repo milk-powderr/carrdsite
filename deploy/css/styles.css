@@ -327,11 +327,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .panels {
   align-items: left;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 .about_panel {
   align-items: left;
   justify-content: left;
-  padding-top: 20%;
 }
 .genshin_panel {
   align-items: left;

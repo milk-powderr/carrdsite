@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
-.panels {
+.back {
   background-image: url("../img/bg.jpg");
   background-position: center;
   background-size: cover;
@@ -325,49 +325,12 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
 }
 
-.hero__heading {
-  color: #4C0564;
-  font-size: 28px;
+.panels {
+  align-items: left;
 }
-@media (min-width: 768px) {
-  .hero__heading {
-    font-size: 33px;
-  }
+.about_panel {
+  align-items: left;
 }
-@media (min-width: 992px) {
-  .hero__heading {
-    font-size: 38px;
-  }
-}
-
-.hero__button {
-  color: #4C0564;
-  align-content: center;
-  display: inline-block;
-  margin-top: 5px;
-  text-decoration: none;
-  background-color: #F4C345;
-  padding: 10px 30px;
-  border-radius: 8px;
-  width: fit-content;
-}
-@media (min-width: 768px) {
-  .hero__button {
-    font-size: 17px;
-    padding: 10px 18px;
-  }
-}
-@media (min-width: 992px) {
-  .hero__button {
-    font-size: 21px;
-    padding: 12px 20px;
-  }
-}
-
-.hero_inner {
-  text-align: center;
-}
-
 .footer-block {
   background-color: #F49696;
   font-style: normal;

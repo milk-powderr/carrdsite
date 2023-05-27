@@ -1,4 +1,4 @@
-.panels {
+.back {
     background-image: url('../img/bg.jpg');
     background-position: center;
     background-size: cover;
@@ -11,41 +11,26 @@
     background-repeat: no-repeat;
 }
 
-.hero__heading {
-    color: $purple;
-    font-size: 28px;
+.panels {
+   align-items: left;
 
     @include md {
-        font-size: 33px;
+       
     }
 
     @include lg {
-        font-size: 38px;
+        
     }
 }
 
-.hero__button {
-    color: $purple;
-    align-content: center;
-    display: inline-block;
-    margin-top: 5px;
-    text-decoration: none;
-    background-color: $yellow;
-    padding: 10px 30px;
-    border-radius: 8px;
-    width: fit-content;
-
-    @include md {
-        font-size: 17px;
-        padding: 10px 18px;
-    }
-
-    @include lg {
-        font-size: 21px;
-        padding: 12px 20px;
-    }
-}
-
-.hero_inner {
-    text-align: center;
-}
+.about_panel {
+    align-items: left;
+ 
+     @include md {
+        
+     }
+ 
+     @include lg {
+         
+     }
+ }

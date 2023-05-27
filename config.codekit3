@@ -154,6 +154,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/heart.gif" : {
+      "ft" : 4194304,
+      "iS" : 46668,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heart.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/deploy\/img\/iba.jpg" : {
       "ft" : 16384,
       "iS" : 22649,

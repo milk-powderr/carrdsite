@@ -324,17 +324,6 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   background-repeat: no-repeat;
 }
-@media (min-width: 768px) {
-  .hero {
-    height: 515px;
-  }
-}
-@media (min-width: 992px) {
-  .hero {
-    height: 686px;
-  }
-}
-
 .hero__heading {
   color: #4C0564;
   font-size: 28px;

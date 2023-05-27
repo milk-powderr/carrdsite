@@ -2,7 +2,7 @@
     background-image: url('../img/bg.jpg');
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -25,6 +25,34 @@
 
 .about_panel {
     align-items: left;
+    justify-content: left;
+    padding-top: 20%;
+ 
+     @include md {
+        
+     }
+ 
+     @include lg {
+         
+     }
+ }
+
+ .genshin_panel {
+    align-items: left;
+    justify-content: left;
+ 
+     @include md {
+        
+     }
+ 
+     @include lg {
+         
+     }
+ }
+
+ .dni_panel {
+    align-items: center;
+    justify-content: left;
  
      @include md {
         

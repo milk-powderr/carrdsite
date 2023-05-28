@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 .panels {
   align-items: left;
   padding-top: 8%;
-  padding-bottom: 8%;
+  padding-bottom: 1%;
 }
 @media (min-width: 768px) {
   .panels {
@@ -360,6 +360,29 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.hiyori_tea {
+  scale: 70%;
+}
+@media (min-width: 768px) {
+  .hiyori_tea {
+    scale: 80%;
+  }
+}
+@media (min-width: 992px) {
+  .hiyori_tea {
+    scale: 80%;
+  }
+}
+
+.rei_moon {
+  display: none;
+}
+@media (min-width: 768px) {
+  .rei_moon {
+    display: flex;
+    scale: 70%;
+  }
+}
 .footer-block {
   overflow: hidden;
   background-color: #F49696;

@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    padding-top: 10px;
+    padding-top: 13px;
     padding-bottom: 7px;
     border-top: #C24444;
     border-width: 20px;
@@ -31,29 +31,32 @@
     
     // text-decoration: none;
     color: #C24444;
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'DotGothic16', sans-serif;
 
     
-        --space: 4vw;
+    //     --space: 4vw;
         
-        white-space: nowrap;
+        // white-space: nowrap;
         animation: marquee 1.5s infinite linear;
+        flex-shrink: 0;
 
-        padding-left: var(--space);
+
+    //     padding-left: var(--space);
         
-        &:after{
-          content: attr(data-text);
-        //   padding-left: var(--space);
-        }
-      }
+    //     &:after{
+    //       content: attr(data-text);
+    //     //   padding-left: var(--space);
+    //     }
+    //   }
       
-      @keyframes marquee {
+      @keyframes scrolling {
         0% {
-          transform: translateX(0)
+          transform: translateX(0);
         }
         100% {
-          transform: translateX(-50%)
+          transform: translateX(-1000px);
         }
       
+}
 }

@@ -328,7 +328,6 @@ h1, h2, h3, h4, h5, h6 {
 .panels {
   align-items: left;
   padding-top: 10%;
-  padding-bottom: 10%;
 }
 @media (min-width: 768px) {
   .panels {
@@ -337,13 +336,29 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: row;
     align-items: center;
     justify-content: left;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-top: 5%;
   }
 }
-.hiyori_tea {
+@media (min-width: 992px) {
+  .panels {
+    padding-top: 5%;
+  }
+}
+
+.click {
   scale: 80%;
 }
+@media (min-width: 768px) {
+  .click {
+    scale: 100%;
+  }
+}
+@media (min-width: 992px) {
+  .click {
+    scale: 100%;
+  }
+}
+
 .footer-block {
   background-color: #F49696;
   font-style: normal;
@@ -356,6 +371,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 @media (min-width: 768px) {
   .footer-block {
@@ -366,7 +382,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.footer__link {
+.footer_word {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #C24444;
+  font-size: 28px;
+  font-family: "DotGothic16", sans-serif;
+  padding-top: 10px;
 }

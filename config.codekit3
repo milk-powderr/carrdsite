@@ -278,6 +278,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/rei.gif" : {
+      "ft" : 4194304,
+      "iS" : 8712341,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/rei.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/deploy\/img\/soc.png" : {
       "ft" : 32768,
       "iS" : 14998,

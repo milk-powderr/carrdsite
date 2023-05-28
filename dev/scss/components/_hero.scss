@@ -42,7 +42,44 @@
      }
  } 
 
+ .arashi_panel {
+    position: absolute;
+    scale: 45%;
+ 
+     @include md {
+     
+     }
+ 
+     @include lg {
+       
+     }
+ } 
 
+ .niki_panel {
+    position: absolute;
+    scale: 45%;
+ 
+     @include md {
+     
+     }
+ 
+     @include lg {
+       
+     }
+ } 
+
+ .hiyorig_panel {
+    position: absolute;
+    scale: 45%;
+ 
+     @include md {
+     
+     }
+ 
+     @include lg {
+       
+     }
+ }
 
 .hiyori_tea {
     scale: 70%;

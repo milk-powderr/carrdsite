@@ -63,6 +63,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/arashi.gif" : {
+      "ft" : 4194304,
+      "iS" : 992267,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/arashi.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/deploy\/img\/bg.jpg" : {
       "ft" : 16384,
       "iS" : 423001,
@@ -164,6 +174,16 @@
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
+    "\/deploy\/img\/hiyorig.gif" : {
+      "ft" : 4194304,
+      "iS" : 1045383,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hiyorig.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/deploy\/img\/hiyorit.gif" : {
       "ft" : 4194304,
       "iS" : 8867067,
@@ -237,6 +257,16 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/niki.gif" : {
+      "ft" : 4194304,
+      "iS" : 976111,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/niki.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
       "rq" : 75
     },
     "\/deploy\/img\/note.png" : {

@@ -346,6 +346,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.click_panel {
+  position: relative;
+}
 .click {
   scale: 80%;
 }
@@ -360,17 +363,23 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.chibs {
+  justify-content: space-around;
+}
 .arashi_panel {
   position: absolute;
   scale: 45%;
+  top: 0;
 }
 .niki_panel {
   position: absolute;
   scale: 45%;
+  top: 0;
 }
 .hiyorig_panel {
   position: absolute;
   scale: 45%;
+  top: 0;
 }
 .hiyori_tea {
   scale: 70%;

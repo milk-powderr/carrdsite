@@ -30,6 +30,18 @@
     }
 }
 
+.click_panel {
+    position: relative;
+ 
+     @include md {
+
+     }
+ 
+     @include lg {
+  
+     }
+ } 
+
 .click {
     scale: 80%;
  
@@ -41,10 +53,22 @@
         scale: 100%;  
      }
  } 
+ .chibs {
+    justify-content:space-around;
+ 
+     @include md {
+
+     }
+ 
+     @include lg {
+  
+     }
+ } 
 
  .arashi_panel {
     position: absolute;
     scale: 45%;
+    top: 0;
  
      @include md {
      
@@ -58,6 +82,7 @@
  .niki_panel {
     position: absolute;
     scale: 45%;
+    top: 0;
  
      @include md {
      
@@ -71,6 +96,7 @@
  .hiyorig_panel {
     position: absolute;
     scale: 45%;
+    top: 0;
  
      @include md {
      

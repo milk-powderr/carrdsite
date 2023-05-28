@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 .click {
-  scale: 80%;
+  scale: 85%;
 }
 @media (min-width: 768px) {
   .click {
@@ -363,23 +363,23 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.chibs {
-  justify-content: space-around;
-}
 .arashi_panel {
   position: absolute;
-  scale: 45%;
+  scale: 35%;
   top: 0;
+  left: 0;
 }
 .niki_panel {
   position: absolute;
-  scale: 45%;
+  scale: 35%;
   top: 0;
+  left: 18%;
 }
 .hiyorig_panel {
   position: absolute;
-  scale: 45%;
+  scale: 35%;
   top: 0;
+  right: 0;
 }
 .hiyori_tea {
   scale: 70%;

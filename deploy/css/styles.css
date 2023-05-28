@@ -360,6 +360,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-block {
+  overflow: hidden;
   background-color: #F49696;
   font-style: normal;
   font-weight: 400;
@@ -372,6 +373,10 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   align-items: center;
   width: 100%;
+  padding-top: 10px;
+  padding-bottom: 7px;
+  border-top: #C24444;
+  border-width: 20px;
 }
 @media (min-width: 768px) {
   .footer-block {
@@ -383,9 +388,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_word {
-  text-decoration: none;
   color: #C24444;
-  font-size: 28px;
+  font-size: 25px;
   font-family: "DotGothic16", sans-serif;
-  padding-top: 10px;
+  --space: 4vw;
+  white-space: nowrap;
+  animation: marquee 1.5s infinite linear;
+  padding-left: var(--space);
+}
+.footer_word:after {
+  content: attr(data-text);
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
 }

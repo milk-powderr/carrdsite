@@ -375,8 +375,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   padding-top: 13px;
   padding-bottom: 7px;
-  border-top: #C24444;
-  border-width: 20px;
 }
 @media (min-width: 768px) {
   .footer-block {
@@ -399,6 +397,6 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-1000px);
+    transform: translateX(-100%);
   }
 }

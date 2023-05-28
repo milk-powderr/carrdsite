@@ -327,7 +327,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .panels {
   align-items: left;
-  padding-top: 10%;
+  padding-top: 8%;
+  padding-bottom: 8%;
 }
 @media (min-width: 768px) {
   .panels {

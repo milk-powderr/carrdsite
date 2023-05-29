@@ -37,6 +37,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/fantastic.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/fantastic.mp3",
+      "oF" : 0
+    },
     "\/deploy\/img\/about.png" : {
       "ft" : 32768,
       "iS" : 11874,
@@ -420,6 +428,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 1
+    },
+    "\/dev\/fantastic.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/fantastic.mp3",
+      "oF" : 0
     },
     "\/dev\/index.kit" : {
       "cB" : 0,

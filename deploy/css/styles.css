@@ -409,6 +409,9 @@ html, body {
     scale: 70%;
   }
 }
+.byf_panel {
+  scale: 90%;
+}
 .footer-block {
   overflow: hidden;
   background-color: #F49696;

@@ -429,16 +429,13 @@ html, body {
 .byf_panel {
   scale: 90%;
 }
-.music_panel {
+.yesnote {
   scale: 40%;
   cursor: pointer;
 }
-.nomusic_panel {
+.nonote {
   scale: 40%;
-  position: absolute;
-  top: -10%;
-  right: -18.5%;
-  opacity: 50%;
+  cursor: pointer;
 }
 .water_panel {
   display: none;

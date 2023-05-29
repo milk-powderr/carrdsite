@@ -146,9 +146,10 @@ display: none;
         }
     }
 
-    .music_panel {
+    .yesnote {
         scale: 40%;
         cursor: pointer;
+
         // position: absolute;
         // top: -10%;
         // right: -18.5%;
@@ -162,12 +163,12 @@ display: none;
             }
         }
 
-        .nomusic_panel {
+        .nonote {
             scale: 40%;
-            position: absolute;
-            top: -10%;
-            right: -18.5%;
-            opacity: 50%;
+            // position: absolute;
+            // top: -10%;
+            // right: -18.5%;
+            cursor: pointer;
              
                 @include md {
         

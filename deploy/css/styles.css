@@ -369,22 +369,23 @@ html, body {
 
 .arashi_panel {
   position: absolute;
-  scale: 35%;
+  scale: 25%;
   top: 0;
   left: 0%;
 }
 .niki_panel {
   position: absolute;
-  scale: 35%;
+  scale: 25%;
   top: 0;
-  left: 14%;
+  left: 17.5%;
   padding-bottom: -20px;
 }
 .hiyorig_panel {
   position: absolute;
-  scale: 35%;
+  scale: 25%;
   top: 0;
-  right: 0;
+  right: 3%;
+  bottom: -14%;
 }
 .hiyori_tea {
   scale: 70%;

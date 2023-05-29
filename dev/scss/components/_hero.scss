@@ -48,7 +48,7 @@ overflow-x: hidden;
 
 .click {
     scale: 65%;
- 
+
      @include md {
         scale: 100%;
      }
@@ -60,7 +60,7 @@ overflow-x: hidden;
 
  .arashi_panel {
     position: absolute;
-    scale: 35%;
+    scale: 25%;
     top: 0;
     left: 0%;
  
@@ -75,9 +75,9 @@ overflow-x: hidden;
 
  .niki_panel {
     position: absolute;
-    scale: 35%;
+    scale: 25%;
     top: 0;
-    left: 14%;
+    left: 17.5%;
     padding-bottom: -20px;
     
  
@@ -92,9 +92,10 @@ overflow-x: hidden;
 
  .hiyorig_panel {
     position: absolute;
-    scale: 35%;
+    scale: 25%;
     top: 0;
-    right: 0;
+    right: 3%;
+    bottom: -14%;
  
      @include md {
      

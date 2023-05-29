@@ -179,27 +179,20 @@ display: none;
 
             .water_panel {
                 // scale: 40%;
-                position: absolute;
+                display: none;
+                // position: absolute;
                 // top: -10%;
                 // right: -18.5%;
                  
                     @include md {
-            
+                        position: relative;
+                        display: flex;
+                        top: 200px;
+                        left: 103px;
+                        scale: 190%;
                     }
                 
                     @include lg {
                         
                     }
                 }
-
-     .about_panel {
-margin-top: -30;
-                     
-     @include md {
-                
-        }
-                    
-        @include lg {
-                            
-         }
-                    }        

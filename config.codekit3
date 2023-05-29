@@ -381,6 +381,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/little.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/little.mp3",
+      "oF" : 0
+    },
     "\/dev\/account.html" : {
       "cB" : 0,
       "ft" : 8192,

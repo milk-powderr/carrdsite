@@ -160,3 +160,18 @@ display: none;
                 
             }
         }
+        .nomusic_panel {
+            scale: 40%;
+            position: absolute;
+            top: -10%;
+            right: -18.5%;
+            opacity: 50%;
+             
+                @include md {
+        
+                }
+            
+                @include lg {
+                    
+                }
+            }

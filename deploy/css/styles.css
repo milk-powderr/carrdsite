@@ -423,8 +423,7 @@ html, body {
 }
 @media (min-width: 768px) {
   .rei_moon {
-    display: flex;
-    scale: 70%;
+    display: none;
   }
 }
 .byf_panel {

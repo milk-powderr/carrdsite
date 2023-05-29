@@ -124,8 +124,9 @@ overflow-x: hidden;
 display: none;
  
     @include md {
-        display: flex;
-        scale: 70%;
+        // display: flex;
+        // scale: 70%;
+        display: none;
     }
 
     @include lg {

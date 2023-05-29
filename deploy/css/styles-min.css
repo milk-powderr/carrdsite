@@ -555,6 +555,17 @@ html, body {
   scale: 40%;
   cursor: pointer;
 }
+
+.commssheetw_panel {
+
+  position: relative;
+  scale: 60%;
+  opacity: 90%;
+  top: -10%;
+  padding-left: 2%;
+
+}
+
 .footer-block {
   overflow: hidden;
   background-color: #F49696;

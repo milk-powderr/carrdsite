@@ -352,6 +352,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/water.gif" : {
+      "ft" : 4194304,
+      "iS" : 12432,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/water.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,

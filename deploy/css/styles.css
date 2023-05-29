@@ -431,7 +431,6 @@ html, body {
 }
 .music_panel {
   scale: 40%;
-  position: absolute;
   top: -10%;
   right: -18.5%;
 }
@@ -441,6 +440,9 @@ html, body {
   top: -10%;
   right: -18.5%;
   opacity: 50%;
+}
+.water_panel {
+  position: absolute;
 }
 .footer-block {
   overflow: hidden;

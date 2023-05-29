@@ -429,6 +429,12 @@ html, body {
 .byf_panel {
   scale: 90%;
 }
+.music_panel {
+  scale: 40%;
+  position: absolute;
+  top: -10%;
+  right: -18.5%;
+}
 .footer-block {
   overflow: hidden;
   background-color: #F49696;

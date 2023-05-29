@@ -149,9 +149,9 @@ display: none;
     .yesnote {
         scale: 40%;
         cursor: pointer;
-        bottom: 10px;
 
-        // position: absolute;
+
+        position: relative;
         // top: -10%;
         // right: -18.5%;
          
@@ -164,38 +164,18 @@ display: none;
             }
         }
 
-        .nonote {
-            scale: 40%;
-            // position: absolute;
-            // top: -10%;
-            // right: -18.5%;
-            cursor: pointer;
+        // .nonote {
+        //     scale: 40%;
+        //     position: absolute;
+        //     top: -10%;
+        //     right: -18.5%;
+        //     cursor: pointer;
              
-                @include md {
+        //         @include md {
         
-                }
+        //         }
             
-                @include lg {
+        //         @include lg {
                     
-                }
-            }
-
-            .water_panel {
-                // scale: 40%;
-                display: none;
-                // position: absolute;
-                // top: -10%;
-                // right: -18.5%;
-                 
-                    @include md {
-                        position: relative;
-                        display: flex;
-                        top: 200px;
-                        left: 103px;
-                        scale: 190%;
-                    }
-                
-                    @include lg {
-                        
-                    }
-                }
+        //         }
+        //     }

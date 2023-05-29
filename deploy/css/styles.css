@@ -354,7 +354,7 @@ html, body {
   position: relative;
 }
 .click {
-  scale: 75%;
+  scale: 65%;
 }
 @media (min-width: 768px) {
   .click {

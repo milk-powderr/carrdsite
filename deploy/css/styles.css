@@ -432,6 +432,7 @@ html, body {
 .yesnote {
   scale: 40%;
   cursor: pointer;
+  bottom: 10px;
 }
 .nonote {
   scale: 40%;

@@ -36,14 +36,6 @@ overflow-x: hidden;
 
 .click_panel {
     position: relative;
- 
-     @include md {
-
-     }
- 
-     @include lg {
-  
-     }
  } 
 
 .click {
@@ -68,10 +60,6 @@ overflow-x: hidden;
         scale: 38%;
         left: -10.5%;
      }
- 
-     @include lg {
-       
-     }
  } 
 
  .niki_panel {
@@ -80,14 +68,9 @@ overflow-x: hidden;
     top: 0;
     left: 17.5%;
     padding-bottom: -20px;
-    
  
      @include md {
         scale: 38%;
-     }
- 
-     @include lg {
-       
      }
  } 
 
@@ -102,10 +85,6 @@ overflow-x: hidden;
         scale: 38%;
         right: -4%;
      }
- 
-     @include lg {
-       
-     }
  }
 
 .hiyori_tea {
@@ -117,20 +96,6 @@ overflow-x: hidden;
 
     @include lg {
     scale: 80%;
-    }
-}
-
-.rei_moon {
-display: none;
- 
-    @include md {
-        // display: flex;
-        // scale: 70%;
-        display: none;
-    }
-
-    @include lg {
-        
     }
 }
 
@@ -149,11 +114,6 @@ display: none;
     .yesnote {
         scale: 40%;
         cursor: pointer;
-
-
-        // position: relative;
-        // top: -10%;
-        // right: -18.5%;
          
             @include md {
     
@@ -163,19 +123,3 @@ display: none;
                 
             }
         }
-
-        // .nonote {
-        //     scale: 40%;
-        //     position: absolute;
-        //     top: -10%;
-        //     right: -18.5%;
-        //     cursor: pointer;
-             
-        //         @include md {
-        
-        //         }
-            
-        //         @include lg {
-                    
-        //         }
-        //     }

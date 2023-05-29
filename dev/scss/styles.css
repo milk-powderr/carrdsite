@@ -518,7 +518,7 @@ body {
   cursor: pointer;
 }
 
-.commssheeta_panel {
+.commssheetw_panel {
   position: relative;
   scale: 50%;
   opacity: 10%;
@@ -565,10 +565,4 @@ body {
 .yesnote {
   scale: 40%;
   cursor: pointer;
-}
-
-.commssheeta_panel {
-  position: relative;
-  scale: 50%;
-  opacity: 10%;
 }

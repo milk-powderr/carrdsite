@@ -325,6 +325,10 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 .panels {
   align-items: left;
   padding-top: 8%;
@@ -350,7 +354,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 .click {
-  scale: 85%;
+  scale: 75%;
 }
 @media (min-width: 768px) {
   .click {
@@ -367,13 +371,14 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   scale: 35%;
   top: 0;
-  left: 0;
+  left: 0%;
 }
 .niki_panel {
   position: absolute;
   scale: 35%;
   top: 0;
-  left: 18%;
+  left: 14%;
+  padding-bottom: -20px;
 }
 .hiyorig_panel {
   position: absolute;

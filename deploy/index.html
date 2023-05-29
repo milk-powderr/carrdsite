@@ -30,12 +30,18 @@
   
    <audio id="audio_play">
   
-      <audio autoplay controls loop source src="little.mp3" type="audio/mpeg" >
+      <audio id="audio_play" autoplay controls loop source src="little.mp3"></audio>
   </audio>
+  <div class="music_panel">
+  <a onClick="togglePlay()" > <img src="./img/note.png" ></a>
+  </div>
+  
+  
+      <!-- <audio autoplay controls loop source src="little.mp3"></audio>
   </audio>
   <div class="music_panel">
   <img src="./img/note.png" onClick="document.getElementById('audio_play').pause(); return true;" />
-  </div>
+  </div> -->
   
   
       <div class="about_panel">

@@ -2,8 +2,17 @@
 
     <div class="panels">
 
- <audio autoplay controls loop src="little.mp3"></audio>
- 
+ <!-- <audio autoplay controls loop src="little.mp3"></audio> -->
+
+ <audio id="audio_play">
+
+    <audio autoplay controls loop source src="little.mp3" type="audio/mpeg" >
+</audio>
+</audio>
+<div class="music_panel">
+<img src="./img/note.png" onClick="document.getElementById('audio_play').pause(); return true;" />
+</div>
+
 
     <div class="about_panel">
         <img class="about" src="./img/about.png" alt="About" />

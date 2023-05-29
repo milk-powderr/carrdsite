@@ -431,6 +431,7 @@ html, body {
 }
 .music_panel {
   scale: 40%;
+  cursor: pointer;
 }
 .nomusic_panel {
   scale: 40%;

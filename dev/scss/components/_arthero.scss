@@ -11,12 +11,13 @@
     background-repeat: no-repeat;
 }
 
-html,body {
-overflow-x: hidden;
+html,
+body {
+    overflow-x: hidden;
 }
 
 .panels {
-   align-items: left;
+    align-items: left;
     padding-top: 8%;
     padding-bottom: 1%;
 
@@ -34,92 +35,23 @@ overflow-x: hidden;
     }
 }
 
-.click_panel {
+.yesnote {
+    scale: 40%;
+    cursor: pointer;
+
+}
+
+.commssheetw_panel {
+
     position: relative;
- } 
+    scale: 50%;
+    opacity: 10%;
 
-.click {
-    scale: 65%;
-
-     @include md {
-        scale: 100%;
-     }
- 
-     @include lg {
-        scale: 100%;  
-     }
- } 
-
- .arashi_panel {
-    position: absolute;
-    scale: 25%;
-    top: 0;
-    left: 0%;
- 
-     @include md {
-        scale: 38%;
-        left: -10.5%;
-     }
- } 
-
- .niki_panel {
-    position: absolute;
-    scale: 25%;
-    top: 0;
-    left: 17.5%;
-    padding-bottom: -20px;
- 
-     @include md {
-        scale: 38%;
-     }
- } 
-
- .hiyorig_panel {
-    position: absolute;
-    scale: 25%;
-    top: 0;
-    right: 3%;
-    bottom: -14%;
- 
-     @include md {
-        scale: 38%;
-        right: -4%;
-     }
- }
-
-.hiyori_tea {
-    scale: 70%;
- 
     @include md {
-    scale: 80%;
+ 
     }
 
     @include lg {
-    scale: 80%;
+ 
     }
 }
-
-.byf_panel {
-    scale: 90%;
-     
-        @include md {
-
-        }
-    
-        @include lg {
-            
-        }
-    }
-
-    .yesnote {
-        scale: 40%;
-        cursor: pointer;
-         
-            @include md {
-    
-            }
-        
-            @include lg {
-                
-            }
-        }

@@ -120,6 +120,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/commssheetw.png" : {
+      "ft" : 32768,
+      "iS" : 51691,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/commssheetw.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/dni.png" : {
       "ft" : 32768,
       "iS" : 11249,
@@ -128,6 +141,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/done.png" : {
+      "ft" : 32768,
+      "iS" : 5166,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/done.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,

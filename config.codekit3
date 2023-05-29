@@ -17,12 +17,12 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/deploy\/account.html" : {
+    "\/deploy\/artcomms.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/account.html",
+      "oAP" : "\/deploy\/artcomms.html",
       "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
@@ -389,21 +389,21 @@
       "oAP" : "\/deploy\/little.mp3",
       "oF" : 0
     },
-    "\/dev\/account.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/account.html",
-      "oF" : 0
-    },
-    "\/dev\/account.kit" : {
+    "\/dev\/artcomms.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/account.html",
+      "oAP" : "\/deploy\/artcomms.html",
       "oF" : 2
+    },
+    "\/dev\/components\/arthero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/arthero.html",
+      "oF" : 0
     },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
@@ -421,14 +421,6 @@
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 1
     },
-    "\/dev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/index.html",
-      "oF" : 0
-    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -436,6 +428,17 @@
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
+    },
+    "\/dev\/js\/scripts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/dev\/js\/scripts-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -496,6 +499,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_arthero.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_arthero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -642,8 +660,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0

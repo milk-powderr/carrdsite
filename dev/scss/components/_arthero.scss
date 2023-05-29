@@ -1,0 +1,181 @@
+.back {
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+html,body {
+overflow-x: hidden;
+}
+
+.panels {
+   align-items: left;
+    padding-top: 8%;
+    padding-bottom: 1%;
+
+    @include md {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
+        justify-content: left;
+        padding-top: 5%;
+    }
+
+    @include lg {
+        padding-top: 5%;
+    }
+}
+
+.click_panel {
+    position: relative;
+ 
+     @include md {
+
+     }
+ 
+     @include lg {
+  
+     }
+ } 
+
+.click {
+    scale: 65%;
+
+     @include md {
+        scale: 100%;
+     }
+ 
+     @include lg {
+        scale: 100%;  
+     }
+ } 
+
+ .arashi_panel {
+    position: absolute;
+    scale: 25%;
+    top: 0;
+    left: 0%;
+ 
+     @include md {
+        scale: 38%;
+        left: -10.5%;
+     }
+ 
+     @include lg {
+       
+     }
+ } 
+
+ .niki_panel {
+    position: absolute;
+    scale: 25%;
+    top: 0;
+    left: 17.5%;
+    padding-bottom: -20px;
+    
+ 
+     @include md {
+        scale: 38%;
+     }
+ 
+     @include lg {
+       
+     }
+ } 
+
+ .hiyorig_panel {
+    position: absolute;
+    scale: 25%;
+    top: 0;
+    right: 3%;
+    bottom: -14%;
+ 
+     @include md {
+        scale: 38%;
+        right: -4%;
+     }
+ 
+     @include lg {
+       
+     }
+ }
+
+.hiyori_tea {
+    scale: 70%;
+ 
+    @include md {
+    scale: 80%;
+    }
+
+    @include lg {
+    scale: 80%;
+    }
+}
+
+.rei_moon {
+display: none;
+ 
+    @include md {
+        // display: flex;
+        // scale: 70%;
+        display: none;
+    }
+
+    @include lg {
+        
+    }
+}
+
+.byf_panel {
+    scale: 90%;
+     
+        @include md {
+
+        }
+    
+        @include lg {
+            
+        }
+    }
+
+    .yesnote {
+        scale: 40%;
+        cursor: pointer;
+
+
+        // position: relative;
+        // top: -10%;
+        // right: -18.5%;
+         
+            @include md {
+    
+            }
+        
+            @include lg {
+                
+            }
+        }
+
+        // .nonote {
+        //     scale: 40%;
+        //     position: absolute;
+        //     top: -10%;
+        //     right: -18.5%;
+        //     cursor: pointer;
+             
+        //         @include md {
+        
+        //         }
+            
+        //         @include lg {
+                    
+        //         }
+        //     }

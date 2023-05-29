@@ -423,6 +423,14 @@
       "oAP" : "\/deploy\/little.mp3",
       "oF" : 0
     },
+    "\/deploy\/writecomms.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/writecomms.html",
+      "oF" : 0
+    },
     "\/dev\/artcomms.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -454,6 +462,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 1
+    },
+    "\/dev\/components\/writehero.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/writehero.html",
+      "oF" : 0
     },
     "\/dev\/components\/writehero.kit" : {
       "cB" : 0,
@@ -736,8 +752,8 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/writecomms.html",
-      "oF" : 0
+      "oAP" : "\/deploy\/writecomms.html",
+      "oF" : 2
     }
   },
   "hooks" : [

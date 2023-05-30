@@ -518,11 +518,6 @@ body {
   cursor: pointer;
 }
 
-.commssheetw_panel {
-  position: relative;
-  scale: 50%;
-  opacity: 10%;
-}
 .back {
   background-image: url("../img/bg.jpg");
   background-position: center;

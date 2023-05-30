@@ -4,26 +4,18 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "3EAADFA8-8105-4BBC-904D-6B3FFDB57B82"
+      "uuidString" : "82CBE83E-B040-4ADB-B587-2591D1406998"
     }
   ],
-  "creatorBuild" : "34484",
+  "creatorBuild" : "34365",
   "files" : {
-    "\/.gitattributes" : {
+    "\/deploy\/account.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/.gitattributes",
-      "oF" : 0
-    },
-    "\/deploy\/artcomms.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/artcomms.html",
-      "oF" : 0
+      "oAP" : "\/deploy\/account.html",
+      "oF" : 1
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
@@ -37,19 +29,11 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/fantastic.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/fantastic.mp3",
-      "oF" : 0
-    },
-    "\/deploy\/img\/about.png" : {
+    "\/deploy\/img\/article-1.png" : {
       "ft" : 32768,
-      "iS" : 11874,
+      "iS" : 121800,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/about.png",
+      "oAP" : "\/deploy\/img\/article-1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -58,11 +42,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/ao3.png" : {
+    "\/deploy\/img\/article-2.png" : {
       "ft" : 32768,
-      "iS" : 5837,
+      "iS" : 120294,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/ao3.png",
+      "oAP" : "\/deploy\/img\/article-2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -71,22 +55,116 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/arashi.gif" : {
-      "ft" : 4194304,
-      "iS" : 992267,
+    "\/deploy\/img\/article-3.png" : {
+      "ft" : 32768,
+      "iS" : 132948,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/arashi.gif",
+      "oAP" : "\/deploy\/img\/article-3.png",
       "oF" : 0,
-      "opt" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/bg.jpg" : {
+    "\/deploy\/img\/article-4.png" : {
+      "ft" : 32768,
+      "iS" : 121807,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/article-5.png" : {
+      "ft" : 32768,
+      "iS" : 93157,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/article-5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/calendar.png" : {
+      "ft" : 32768,
+      "iS" : 25728,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/calendar.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/camera.png" : {
+      "ft" : 32768,
+      "iS" : 24573,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/camera.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/collage-1.png" : {
+      "ft" : 32768,
+      "iS" : 795700,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/collage-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/collage-2.png" : {
+      "ft" : 32768,
+      "iS" : 289010,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/collage-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/collage-3.png" : {
+      "ft" : 32768,
+      "iS" : 253033,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/collage-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/cta-1.jpg" : {
       "ft" : 16384,
-      "iS" : 423001,
+      "iS" : 12600,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/bg.jpg",
+      "oAP" : "\/deploy\/img\/cta-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -94,11 +172,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/byf.png" : {
+    "\/deploy\/img\/cta-2.png" : {
       "ft" : 32768,
-      "iS" : 13949,
+      "iS" : 22993,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/byf.png",
+      "oAP" : "\/deploy\/img\/cta-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Dots.png" : {
+      "ft" : 32768,
+      "iS" : 421,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Dots.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -107,133 +198,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/click.png" : {
-      "ft" : 32768,
-      "iS" : 87257,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/click.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/commssheetw.png" : {
-      "ft" : 32768,
-      "iS" : 51691,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/commssheetw.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/dni.png" : {
-      "ft" : 32768,
-      "iS" : 11249,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/dni.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/done.png" : {
-      "ft" : 32768,
-      "iS" : 5166,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/done.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/enstarsstats.png" : {
-      "ft" : 32768,
-      "iS" : 6801,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/enstarsstats.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/flag.png" : {
-      "ft" : 32768,
-      "iS" : 4322,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/flag.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/genshin.png" : {
-      "ft" : 32768,
-      "iS" : 6622,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/genshin.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/heart.gif" : {
-      "ft" : 4194304,
-      "iS" : 46668,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/heart.gif",
-      "oF" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
-    "\/deploy\/img\/hiyorig.gif" : {
-      "ft" : 4194304,
-      "iS" : 1045383,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hiyorig.gif",
-      "oF" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
-    "\/deploy\/img\/hiyorit.gif" : {
-      "ft" : 4194304,
-      "iS" : 8867067,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hiyorit.gif",
-      "oF" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
-    "\/deploy\/img\/iba.jpg" : {
+    "\/deploy\/img\/hero.jpg" : {
       "ft" : 16384,
-      "iS" : 22649,
+      "iS" : 1349544,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/iba.jpg",
+      "oAP" : "\/deploy\/img\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -241,24 +211,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/iba.png" : {
+    "\/deploy\/img\/icon-arrow.png" : {
       "ft" : 32768,
-      "iS" : 716964,
+      "iS" : 507,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/iba.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/intro.png" : {
-      "ft" : 32768,
-      "iS" : 11244,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/intro.png",
+      "oAP" : "\/deploy\/img\/icon-arrow.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -267,19 +224,63 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/little.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/little.mp3",
-      "oF" : 0
-    },
-    "\/deploy\/img\/makotools.png" : {
+    "\/deploy\/img\/icon-phone.png" : {
       "ft" : 32768,
-      "iS" : 4973,
+      "iS" : 297,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/makotools.png",
+      "oAP" : "\/deploy\/img\/icon-phone.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/lines.png" : {
+      "ft" : 32768,
+      "iS" : 211,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/lines.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/logo.jpg" : {
+      "ft" : 16384,
+      "iS" : 11810,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 3633,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/meeting.png" : {
+      "ft" : 32768,
+      "iS" : 16318,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/meeting.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -301,21 +302,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/niki.gif" : {
-      "ft" : 4194304,
-      "iS" : 976111,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/niki.gif",
-      "oF" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
-    "\/deploy\/img\/note.png" : {
+    "\/deploy\/img\/mission.png" : {
       "ft" : 32768,
-      "iS" : 5165,
+      "iS" : 589117,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/note.png",
+      "oAP" : "\/deploy\/img\/mission.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -324,11 +315,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/notesn.png" : {
+    "\/deploy\/img\/model.png" : {
       "ft" : 32768,
-      "iS" : 5331,
+      "iS" : 17086,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/notesn.png",
+      "oAP" : "\/deploy\/img\/model.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -337,11 +328,120 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/produce.png" : {
-      "ft" : 32768,
-      "iS" : 5944,
+    "\/deploy\/img\/peace.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/produce.png",
+      "oAP" : "\/deploy\/img\/peace.ico",
+      "oF" : 0
+    },
+    "\/deploy\/img\/room.png" : {
+      "ft" : 32768,
+      "iS" : 123640,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/room.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/search.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/search.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Section.jpg" : {
+      "ft" : 16384,
+      "iS" : 6480,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Section.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/social-1.png" : {
+      "ft" : 32768,
+      "iS" : 376,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/social-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/social-2.png" : {
+      "ft" : 32768,
+      "iS" : 417,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/social-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/social-3.png" : {
+      "ft" : 32768,
+      "iS" : 503,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/social-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/social-4.png" : {
+      "ft" : 32768,
+      "iS" : 346,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/social-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/speaker.png" : {
+      "ft" : 32768,
+      "iS" : 12838,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/speaker.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Steps.png" : {
+      "ft" : 32768,
+      "iS" : 1171,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/steps.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -350,21 +450,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/rei.gif" : {
-      "ft" : 4194304,
-      "iS" : 8712341,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/rei.gif",
-      "oF" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
-    "\/deploy\/img\/soc.png" : {
+    "\/deploy\/img\/steps2.png" : {
       "ft" : 32768,
-      "iS" : 14998,
+      "iS" : 5706,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/soc.png",
+      "oAP" : "\/deploy\/img\/steps2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -373,11 +463,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/twitter.png" : {
+    "\/deploy\/img\/steps3.png" : {
       "ft" : 32768,
-      "iS" : 5044,
+      "iS" : 7459,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/twitter.png",
+      "oAP" : "\/deploy\/img\/steps3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -386,14 +476,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/water.gif" : {
-      "ft" : 4194304,
-      "iS" : 12432,
+    "\/deploy\/img\/truck.png" : {
+      "ft" : 32768,
+      "iS" : 22521,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/water.gif",
+      "oAP" : "\/deploy\/img\/truck.png",
       "oF" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/deploy\/index.html" : {
@@ -403,25 +496,6 @@
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
-    },
-    "\/deploy\/jewel.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/jewel.mp3",
-      "oF" : 0
-    },
-    "\/deploy\/js\/scripts-min-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
     },
     "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
@@ -434,36 +508,36 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/deploy\/little.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/little.mp3",
-      "oF" : 0
-    },
-    "\/deploy\/writecomms.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/writecomms.html",
-      "oF" : 0
-    },
-    "\/dev\/artcomms.kit" : {
+    "\/dev\/account.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/artcomms.html",
+      "oAP" : "\/deploy\/account.html",
       "oF" : 2
     },
-    "\/dev\/components\/arthero.kit" : {
+    "\/dev\/components\/article-grid.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/arthero.html",
+      "oAP" : "\/dev\/components\/article-grid.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/date.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/date.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/events.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/events.html",
       "oF" : 0
     },
     "\/dev\/components\/footer.kit" : {
@@ -474,28 +548,76 @@
       "oAP" : "\/dev\/components\/footer.html",
       "oF" : 0
     },
+    "\/dev\/components\/header-account.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/header-account.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
     "\/dev\/components\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/hero.html",
-      "oF" : 1
+      "oF" : 0
     },
-    "\/dev\/components\/writehero.kit" : {
+    "\/dev\/components\/listings.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/writehero.html",
+      "oAP" : "\/dev\/components\/listings.html",
       "oF" : 0
     },
-    "\/dev\/fantastic.mp3" : {
+    "\/dev\/components\/mission.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/fantastic.mp3",
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/mission.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/name.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/name.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/search-bar.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/search-bar.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/sub-header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/sub-header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/term.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/term.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -506,43 +628,16 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
     },
-    "\/dev\/jewel.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/jewel.mp3",
-      "oF" : 0
-    },
-    "\/dev\/js\/scripts-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/dev\/js\/scripts-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oF" : 2,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/dev\/little.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/little.mp3",
-      "oF" : 0
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
@@ -557,7 +652,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
@@ -572,7 +667,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
@@ -587,9 +682,9 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
-    "\/dev\/scss\/components\/_arthero.scss" : {
+    "\/dev\/scss\/components\/_article-grid.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -598,11 +693,11 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/styles.css",
-      "oF" : 3,
+      "oAP" : "\/dev\/scss\/components\/_article-grid.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
@@ -617,7 +712,37 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_date.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_date.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_events.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_events.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
@@ -632,7 +757,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
@@ -647,7 +772,37 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_header-account.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_header-account.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_header.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_hero.scss" : {
       "aP" : 0,
@@ -662,7 +817,22 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_listings.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_listings.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_main-content.scss" : {
       "aP" : 0,
@@ -677,7 +847,37 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_mission.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_mission.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_name.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_name.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
@@ -692,9 +892,9 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
-    "\/dev\/scss\/components\/_writehero.scss" : {
+    "\/dev\/scss\/components\/_search-bar.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -703,11 +903,41 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_writehero.css",
+      "oAP" : "\/dev\/scss\/components\/_search-bar.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_sub-header.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_sub-header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_term.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_term.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
     },
     "\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
@@ -722,7 +952,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
@@ -737,19 +967,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
@@ -760,994 +978,11 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles.css",
-      "oF" : 0,
+      "oAP" : "\/deploy\/css\/styles.css",
+      "oF" : 2,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/writecomms.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/writecomms.html",
-      "oF" : 2
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/account.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/account.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/css\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/css\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/article-1.png" : {
-      "ft" : 32768,
-      "iS" : 121800,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/article-1.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/article-2.png" : {
-      "ft" : 32768,
-      "iS" : 120294,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/article-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/article-3.png" : {
-      "ft" : 32768,
-      "iS" : 132948,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/article-3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/article-4.png" : {
-      "ft" : 32768,
-      "iS" : 121807,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/article-4.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/article-5.png" : {
-      "ft" : 32768,
-      "iS" : 93157,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/article-5.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/calendar.png" : {
-      "ft" : 32768,
-      "iS" : 25728,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/calendar.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/camera.png" : {
-      "ft" : 32768,
-      "iS" : 24573,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/camera.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/collage-1.png" : {
-      "ft" : 32768,
-      "iS" : 795700,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/collage-1.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/collage-2.png" : {
-      "ft" : 32768,
-      "iS" : 289010,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/collage-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/collage-3.png" : {
-      "ft" : 32768,
-      "iS" : 253033,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/collage-3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/cta-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 12600,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/cta-1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/cta-2.png" : {
-      "ft" : 32768,
-      "iS" : 22993,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/cta-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/Dots.png" : {
-      "ft" : 32768,
-      "iS" : 394,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/Dots.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 1349544,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/icon-arrow.png" : {
-      "ft" : 32768,
-      "iS" : 507,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/icon-arrow.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/icon-phone.png" : {
-      "ft" : 32768,
-      "iS" : 297,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/icon-phone.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/lines.png" : {
-      "ft" : 32768,
-      "iS" : 211,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/lines.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/logo.jpg" : {
-      "ft" : 16384,
-      "iS" : 11810,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/logo.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/logo.png" : {
-      "ft" : 32768,
-      "iS" : 3944,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/logo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/meeting.png" : {
-      "ft" : 32768,
-      "iS" : 16318,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/meeting.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/mission.jpg" : {
-      "ft" : 16384,
-      "iS" : 408292,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/mission.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/mission.png" : {
-      "ft" : 32768,
-      "iS" : 589117,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/mission.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/model.png" : {
-      "ft" : 32768,
-      "iS" : 17086,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/model.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/peace.ico" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/peace.ico",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/room.png" : {
-      "ft" : 32768,
-      "iS" : 123640,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/room.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/search.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/search.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/Section.jpg" : {
-      "ft" : 16384,
-      "iS" : 6480,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/Section.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/social-1.png" : {
-      "ft" : 32768,
-      "iS" : 376,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/social-1.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/social-2.png" : {
-      "ft" : 32768,
-      "iS" : 417,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/social-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/social-3.png" : {
-      "ft" : 32768,
-      "iS" : 503,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/social-3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/social-4.png" : {
-      "ft" : 32768,
-      "iS" : 346,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/social-4.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/speaker.png" : {
-      "ft" : 32768,
-      "iS" : 12838,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/speaker.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/steps.png" : {
-      "ft" : 32768,
-      "iS" : 3703,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/steps.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/steps2.png" : {
-      "ft" : 32768,
-      "iS" : 5706,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/steps2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/steps3.png" : {
-      "ft" : 32768,
-      "iS" : 7459,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/steps3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/img\/truck.png" : {
-      "ft" : 32768,
-      "iS" : 24239,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/img\/truck.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/index.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/deploy\/js\/scripts-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/deploy\/js\/scripts-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/account.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/account.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/article-grid.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/article-grid.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/date.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/date.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/events.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/events.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/footer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/footer.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/header-account.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/header-account.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/header.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/hero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/hero.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/listings.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/listings.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/mission.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/mission.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/name.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/name.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/search-bar.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/search-bar.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/sub-header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/sub-header.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/components\/term.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/components\/term.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/index.html",
-      "oF" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/js\/scripts.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/js\/scripts-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/base\/_base.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/base\/_base.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/base\/_normalize.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/base\/_normalize.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/base\/_typography.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/base\/_typography.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_article-grid.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_article-grid.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_buttons.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_date.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_date.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_events.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_events.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_footer.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_footer.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_forms.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_forms.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_header-account.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_header-account.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_header.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_header.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_hero.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_hero.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_listings.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_listings.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_main-content.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_main-content.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_mission.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_mission.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_name.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_name.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_navigation.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_navigation.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_search-bar.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_search-bar.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_sub-header.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_sub-header.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_term.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/components\/_term.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/helpers\/_mixins.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/helpers\/_mixins.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/helpers\/_variables.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/helpers\/_variables.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/Web-2-main\/assignments\/final\/dev\/scss\/styles.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/Web-2-main\/assignments\/final\/dev\/scss\/styles.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     }
   },
   "hooks" : [
@@ -1757,12 +992,11 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 671243941.00974798,
-    "displayValue" : "carrdsite",
+    "creationDate" : 607448965.33801401,
+    "displayValue" : "final",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets_gray",
-    "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 671259858.67559004
+    "iconImageName" : "brackets-forest",
+    "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -2071,7 +1305,7 @@
     "esLintRules" : {
       "accessor-pairs" : {
         "active" : 0,
-        "optionString" : "{'setWithoutGet': true, 'getWithoutSet': false, 'enforceForClassMembers': true}"
+        "optionString" : "{'setWithoutGet': true, 'getWithoutSet': false}"
       },
       "array-bracket-newline" : {
         "active" : 0,
@@ -2114,7 +1348,7 @@
       },
       "camelcase" : {
         "active" : 0,
-        "optionString" : "{'properties': 'always', 'ignoreDestructuring': false, 'ignoreImports': false}"
+        "optionString" : "{'properties': 'always', 'ignoreDestructuring': false}"
       },
       "capitalized-comments" : {
         "active" : 0,
@@ -2122,7 +1356,7 @@
       },
       "class-methods-use-this" : {
         "active" : 0,
-        "optionString" : "{'exceptMethods': [], 'enforceForClassFields': true}"
+        "optionString" : "{'exceptMethods': []}"
       },
       "comma-dangle" : {
         "active" : 1,
@@ -2142,7 +1376,7 @@
       },
       "computed-property-spacing" : {
         "active" : 0,
-        "optionString" : "'never', {'enforceForClassMembers': true}"
+        "optionString" : "'never'"
       },
       "consistent-return" : {
         "active" : 0,
@@ -2278,13 +1512,9 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
-      "logical-assignment-operators" : {
-        "active" : 0,
-        "optionString" : "'always',  {'enforceForIfStatements': false}"
-      },
       "max-classes-per-file" : {
         "active" : 0,
-        "optionString" : "{'ignoreExpressions': false, 'max': 1}"
+        "optionString" : "1"
       },
       "max-depth" : {
         "active" : 0,
@@ -2442,9 +1672,6 @@
       "no-empty-pattern" : {
         "active" : 1
       },
-      "no-empty-static-block" : {
-        "active" : 0
-      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -2470,14 +1697,13 @@
       },
       "no-extra-parens" : {
         "active" : 0,
-        "optionString" : "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false, 'enforceForSequenceExpressions': false, 'enforceForNewInMemberExpressions': false}"
+        "optionString" : "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
       },
       "no-extra-semi" : {
         "active" : 1
       },
       "no-fallthrough" : {
-        "active" : 1,
-        "optionString" : "{'allowEmptyCase': false}"
+        "active" : 1
       },
       "no-floating-decimal" : {
         "active" : 0
@@ -2491,7 +1717,7 @@
       },
       "no-implicit-coercion" : {
         "active" : 0,
-        "optionString" : "{'boolean': true, 'number': true, 'string': true, 'disallowTemplateShorthand': false, 'allow': []}"
+        "optionString" : "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
       },
       "no-implicit-globals" : {
         "active" : 0
@@ -2515,7 +1741,7 @@
       },
       "no-invalid-this" : {
         "active" : 0,
-        "optionString" : "{'capIsConstructor': true}"
+        "optionString" : ""
       },
       "no-irregular-whitespace" : {
         "active" : 1,
@@ -2541,11 +1767,11 @@
         "active" : 0
       },
       "no-loss-of-precision" : {
-        "active" : 1
+        "active" : 0
       },
       "no-magic-numbers" : {
         "active" : 0,
-        "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'ignoreDefaultValues': false, 'enforceConst': false, 'detectObjects': false}"
+        "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
       },
       "no-misleading-character-class" : {
         "active" : 0
@@ -2585,9 +1811,6 @@
       "no-new-func" : {
         "active" : 0
       },
-      "no-new-native-nonconstructor" : {
-        "active" : 0
-      },
       "no-new-object" : {
         "active" : 0
       },
@@ -2598,7 +1821,7 @@
         "active" : 0
       },
       "no-nonoctal-decimal-escape" : {
-        "active" : 1
+        "active" : 0
       },
       "no-obj-calls" : {
         "active" : 1
@@ -2642,8 +1865,7 @@
         "optionString" : "'event', 'fdescribe'"
       },
       "no-restricted-imports" : {
-        "active" : 0,
-        "optionString" : ""
+        "active" : 0
       },
       "no-restricted-properties" : {
         "active" : 0,
@@ -2719,7 +1941,7 @@
       },
       "no-underscore-dangle" : {
         "active" : 0,
-        "optionString" : "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'allowAfterThisConstructor': false, 'enforceInMethodNames': false, 'allowFunctionParams': true}"
+        "optionString" : "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
       },
       "no-unexpected-multiline" : {
         "active" : 1
@@ -2743,15 +1965,15 @@
       },
       "no-unsafe-negation" : {
         "active" : 1,
-        "optionString" : "{'enforceForOrderingRelations': false}"
+        "optionString" : ""
       },
       "no-unsafe-optional-chaining" : {
-        "active" : 1,
+        "active" : 0,
         "optionString" : "{'disallowArithmeticOperators': false}"
       },
       "no-unused-expressions" : {
         "active" : 0,
-        "optionString" : "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false, 'enforceForJSX': false}"
+        "optionString" : "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
       },
       "no-unused-labels" : {
         "active" : 1
@@ -2768,7 +1990,7 @@
         "optionString" : "{'functions': true, 'classes': true, 'variables': true}"
       },
       "no-useless-backreference" : {
-        "active" : 1
+        "active" : 0
       },
       "no-useless-call" : {
         "active" : 0
@@ -2778,7 +2000,7 @@
       },
       "no-useless-computed-key" : {
         "active" : 0,
-        "optionString" : "{'enforceForClassMembers': false}"
+        "optionString" : ""
       },
       "no-useless-concat" : {
         "active" : 0
@@ -2801,7 +2023,7 @@
       },
       "no-void" : {
         "active" : 0,
-        "optionString" : "{'allowAsStatement': false}"
+        "optionString" : ""
       },
       "no-warning-comments" : {
         "active" : 0,
@@ -2942,7 +2164,7 @@
       },
       "sort-imports" : {
         "active" : 0,
-        "optionString" : "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single'], 'allowSeparatedGroups': false}"
+        "optionString" : "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
       },
       "sort-keys" : {
         "active" : 0,
@@ -3001,7 +2223,7 @@
       },
       "use-isnan" : {
         "active" : 1,
-        "optionString" : "{'enforceForSwitchCase': true, 'enforceForIndexOf': false}"
+        "optionString" : ""
       },
       "valid-typeof" : {
         "active" : 1,
@@ -3038,7 +2260,7 @@
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
-      "minifierStyle" : 0,
+      "minifierStyle" : 1,
       "outputStyle" : 0,
       "sourceMapStyle" : 0,
       "transpilerStyle" : 1
@@ -3115,7 +2337,7 @@
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
-      "orderOutput" : 1,
+      "orderOutput" : 0,
       "outputStyle" : 1
     },
     "languageDefaultsKIT" : {
@@ -3144,7 +2366,7 @@
       "rewriteURLStyle" : 0,
       "shouldRunAutoprefixer" : 0,
       "shouldRunBless" : 0,
-      "sourceMapStyle" : 0,
+      "sourceMapStyle" : 1,
       "strictImports" : 0,
       "strictUnits" : 0
     },
@@ -3200,7 +2422,7 @@
       "autoOutputPathStyle" : 0,
       "compileDebug" : 1,
       "htmlMinifierStyle" : 0,
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "shouldRunCacheBuster" : 0
     },
     "languageDefaultsSASS" : {
@@ -3210,7 +2432,7 @@
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 0,
-      "compilerType" : 0,
+      "compilerType" : 1,
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
@@ -3271,12 +2493,11 @@
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
-      "moduleDetectionType" : 0,
       "moduleResolutionType" : 0,
       "moduleType" : 2,
       "removeComments" : 0,
       "sourceMapStyle" : 0,
-      "targetECMAVersion" : 2018
+      "targetECMAVersion" : 0
     },
     "languageDefaultsUserDefined" : [
 
@@ -3328,14 +2549,10 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
-    "rollupTreeshakingModuleSideEffects" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
-    "tsAllowArbitraryExtensions" : 0,
-    "tsAllowImportingTSExtensions" : 0,
     "tsAllowSyntheticDefaultImports" : 0,
-    "tsAllowUMDGlobalAccess" : 0,
     "tsAllowUnreachableCode" : 0,
     "tsAllowUnusedLabels" : 0,
     "tsAlwaysStrict" : 0,
@@ -3344,36 +2561,36 @@
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
-    "tsExperimentalDecorators" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
+    "tsKeyofStringsOnly" : 0,
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
     "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
+    "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
     "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
+    "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
     "tsNoUnusedLocals" : 0,
     "tsNoUnusedParameters" : 0,
     "tsPreserveConstEnums" : 0,
     "tsPreserveSymlinks" : 0,
     "tsResolveJsonModule" : 0,
-    "tsSkipDefaultLibCheck" : 0,
     "tsSkipLibCheck" : 0,
-    "tsStrictBindCallApply" : 0,
     "tsStrictFunctionTypes" : 0,
     "tsStrictNullChecks" : 0,
     "tsStrictPropertyInitialization" : 0,
     "tsStripInternal" : 0,
-    "tsUseDefineForClassFields" : 0,
+    "tsSuppressExcessPropertyErrors" : 0,
+    "tsSuppressImplicitAnyIndexErrors" : 0,
     "tsUseUnknownInCatchVariables" : 0,
-    "tsVerbatimModuleSyntax" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
@@ -3406,7 +2623,7 @@
       },
       "comments" : {
         "active" : 0,
-        "flagValue" : 1
+        "flagValue" : -1
       },
       "comparisons" : {
         "active" : 1,

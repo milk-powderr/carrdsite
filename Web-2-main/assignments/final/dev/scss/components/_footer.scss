@@ -1,0 +1,25 @@
+.footer-block {
+    background-color: $purple;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    text-align: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    @include md {
+        font-size: 11px;
+        line-height: 20px;
+        font-weight: 400;
+        gap: 10px;
+    }
+}
+
+.footer__link {
+    text-decoration: none;
+    color: $white;
+}

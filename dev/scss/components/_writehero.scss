@@ -44,6 +44,7 @@ body {
 
 .commssheetws_panel {
     position: relative;
+    scale: 90%;
 
     @include md {
         display: none;

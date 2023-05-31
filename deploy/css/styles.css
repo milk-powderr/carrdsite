@@ -515,6 +515,7 @@ body {
 
 .commssheetws_panel {
   position: relative;
+  scale: 90%;
 }
 @media (min-width: 768px) {
   .commssheetws_panel {

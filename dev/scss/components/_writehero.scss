@@ -2,9 +2,9 @@
     background-image: url('../img/bg.jpg');
     background-position: center;
     background-size: cover;
-    height: 100%;
+    height: max-content;
     display: flex;
-    flex-direction: column;
+    // flex-direction: column;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -17,7 +17,6 @@ body {
 }
 
 .wpanels {
-    align-items: left;
     padding-top: 8%;
     padding-bottom: 1%;
 
@@ -26,8 +25,9 @@ body {
         flex-wrap: wrap;
         flex-direction: row;
         align-items: center;
-        justify-content: left;
+        justify-content: space-around;
         padding-top: 5%;
+        margin: auto;
     }
 
     @include lg {
@@ -61,10 +61,13 @@ body {
     @include md {
         display: flex;
          position: relative;
-         scale: 50%;
+         scale: 100%;
     }
 
     @include lg {
- 
+        padding-top: 4%;
+        padding-bottom: 10%;
+        padding-left: 30%;
+        padding-right: 30%;
     }
 }

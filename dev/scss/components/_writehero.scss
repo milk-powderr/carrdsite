@@ -1,4 +1,4 @@
-.back {
+.wback {
     background-image: url('../img/bg.jpg');
     background-position: center;
     background-size: cover;
@@ -16,7 +16,7 @@ body {
     overflow-x: hidden;
 }
 
-.panels {
+.wpanels {
     align-items: left;
     padding-top: 8%;
     padding-bottom: 1%;
@@ -35,23 +35,22 @@ body {
     }
 }
 
-.yesnote {
+.wyesnote {
     scale: 40%;
     cursor: pointer;
 
 }
 
-// .commssheetw_panel {
+.commssheetw_panel {
 
-//     position: relative;
-//     scale: 50%;
-//     opacity: 10%;
+    position: relative;
+    scale: 50%;
 
-//     @include md {
+    @include md {
  
-//     }
+    }
 
-//     @include lg {
+    @include lg {
  
-//     }
-// }
+    }
+}

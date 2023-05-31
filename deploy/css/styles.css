@@ -325,7 +325,8 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
 }
 
-html, body {
+html,
+body {
   overflow-x: hidden;
 }
 
@@ -353,6 +354,7 @@ html, body {
 .click_panel {
   position: relative;
 }
+
 .click {
   scale: 65%;
 }
@@ -379,6 +381,7 @@ html, body {
     left: -10.5%;
   }
 }
+
 .niki_panel {
   position: absolute;
   scale: 25%;
@@ -391,6 +394,7 @@ html, body {
     scale: 38%;
   }
 }
+
 .hiyorig_panel {
   position: absolute;
   scale: 25%;
@@ -404,6 +408,7 @@ html, body {
     right: -4%;
   }
 }
+
 .hiyori_tea {
   scale: 70%;
 }
@@ -418,138 +423,10 @@ html, body {
   }
 }
 
-.rei_moon {
-  display: none;
-}
-@media (min-width: 768px) {
-  .rei_moon {
-    display: none;
-  }
-}
 .byf_panel {
   scale: 90%;
 }
-.yesnote {
-  scale: 40%;
-  cursor: pointer;
-}
-.back {
-  background-image: url("../img/bg.jpg");
-  background-position: center;
-  background-size: cover;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  background-repeat: no-repeat;
-}
 
-html, body {
-  overflow-x: hidden;
-}
-
-.panels {
-  align-items: left;
-  padding-top: 8%;
-  padding-bottom: 1%;
-}
-@media (min-width: 768px) {
-  .panels {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    justify-content: left;
-    padding-top: 5%;
-  }
-}
-@media (min-width: 992px) {
-  .panels {
-    padding-top: 5%;
-  }
-}
-
-.click_panel {
-  position: relative;
-}
-.click {
-  scale: 65%;
-}
-@media (min-width: 768px) {
-  .click {
-    scale: 100%;
-  }
-}
-@media (min-width: 992px) {
-  .click {
-    scale: 100%;
-  }
-}
-
-.arashi_panel {
-  position: absolute;
-  scale: 25%;
-  top: 0;
-  left: 0%;
-}
-@media (min-width: 768px) {
-  .arashi_panel {
-    scale: 38%;
-    left: -10.5%;
-  }
-}
-.niki_panel {
-  position: absolute;
-  scale: 25%;
-  top: 0;
-  left: 17.5%;
-  padding-bottom: -20px;
-}
-@media (min-width: 768px) {
-  .niki_panel {
-    scale: 38%;
-  }
-}
-.hiyorig_panel {
-  position: absolute;
-  scale: 25%;
-  top: 0;
-  right: 3%;
-  bottom: -14%;
-}
-@media (min-width: 768px) {
-  .hiyorig_panel {
-    scale: 38%;
-    right: -4%;
-  }
-}
-.hiyori_tea {
-  scale: 70%;
-}
-@media (min-width: 768px) {
-  .hiyori_tea {
-    scale: 80%;
-  }
-}
-@media (min-width: 992px) {
-  .hiyori_tea {
-    scale: 80%;
-  }
-}
-
-.rei_moon {
-  display: none;
-}
-@media (min-width: 768px) {
-  .rei_moon {
-    display: none;
-  }
-}
-.byf_panel {
-  scale: 90%;
-}
 .yesnote {
   scale: 40%;
   cursor: pointer;
@@ -595,4 +472,92 @@ html, body {
   100% {
     transform: translateX(-100%);
   }
+}
+
+.back {
+  background-image: url("../img/bg.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.panels {
+  align-items: left;
+  padding-top: 8%;
+  padding-bottom: 1%;
+}
+@media (min-width: 768px) {
+  .panels {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    padding-top: 5%;
+  }
+}
+@media (min-width: 992px) {
+  .panels {
+    padding-top: 5%;
+  }
+}
+
+.yesnote {
+  scale: 40%;
+  cursor: pointer;
+}
+
+.wback {
+  background-image: url("../img/bg.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.wpanels {
+  align-items: left;
+  padding-top: 8%;
+  padding-bottom: 1%;
+}
+@media (min-width: 768px) {
+  .wpanels {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    padding-top: 5%;
+  }
+}
+@media (min-width: 992px) {
+  .wpanels {
+    padding-top: 5%;
+  }
+}
+
+.wyesnote {
+  scale: 40%;
+  cursor: pointer;
 }

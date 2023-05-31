@@ -507,15 +507,10 @@ body {
     padding-top: 5%;
   }
 }
-@media (min-width: 992px) {
-  .wpanels {
-    padding-top: 5%;
-  }
-}
-
 .wyesnote {
   scale: 40%;
   cursor: pointer;
+  display: flex;
 }
 
 .commssheetws_panel {

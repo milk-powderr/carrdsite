@@ -518,9 +518,23 @@ body {
   cursor: pointer;
 }
 
-.commssheetw_panel {
+.commssheetws_panel {
   position: relative;
-  scale: 50%;
+}
+@media (min-width: 768px) {
+  .commssheetws_panel {
+    display: none;
+  }
+}
+.commssheetw_panel {
+  display: none;
+}
+@media (min-width: 768px) {
+  .commssheetw_panel {
+    display: flex;
+    position: relative;
+    scale: 50%;
+  }
 }
 .aback {
   background-image: url("../img/bg.jpg");

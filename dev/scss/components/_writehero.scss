@@ -41,13 +41,25 @@ body {
 
 }
 
-.commssheetw_panel {
-
+.commssheetws_panel {
     position: relative;
-    scale: 50%;
 
     @include md {
+        display: none;
+    }
+
+    @include lg {
  
+    }
+}
+
+.commssheetw_panel {
+    display: none;
+
+    @include md {
+        display: flex;
+         position: relative;
+         scale: 50%;
     }
 
     @include lg {

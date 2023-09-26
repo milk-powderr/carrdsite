@@ -414,12 +414,7 @@ body {
 }
 @media (min-width: 768px) {
   .hiyori_tea {
-    scale: 80%;
-  }
-}
-@media (min-width: 992px) {
-  .hiyori_tea {
-    scale: 80%;
+    display: none;
   }
 }
 

@@ -93,11 +93,7 @@ body {
     scale: 70%;
 
     @include md {
-        scale: 80%;
-    }
-
-    @include lg {
-        scale: 80%;
+      display: none;
     }
 }
 

@@ -488,7 +488,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/deploy\/artcomms.html",
       "oF" : 3
     },

@@ -386,6 +386,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/test.png" : {
+      "ft" : 32768,
+      "iS" : 90432,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/test.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/twitter.png" : {
       "ft" : 32768,
       "iS" : 5044,
@@ -475,9 +488,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/arthero.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/deploy\/artcomms.html",
+      "oF" : 3
     },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
